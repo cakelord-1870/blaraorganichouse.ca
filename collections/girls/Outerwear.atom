@@ -1,0 +1,3297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blaraorganichouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blaraorganichouse.ca/collections/girls.atom"/>
+  <title>Blara Organic House</title>
+  <updated>2021-08-05T11:33:52-07:00</updated>
+  <author>
+    <name>Blara Organic House</name>
+  </author>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6571418681367</id>
+    <published>2021-08-05T11:33:52-07:00</published>
+    <updated>2021-08-05T11:33:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/girls-sweet-collar-shirt"/>
+    <title>GIRL&apos;S SWEET COLLAR SHIRT</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRTS180200721_pink_1Y-8Y-front_80a72866-4b93-44af-adff-944eb08c4c68.jpg?v=1628196804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRTS180200721</span></li>
+<li data-mce-fragment="1">Fabric: Double Jersey (95% organic cotton, 5% Spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>9-12M / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>2Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>3Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>4Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>5Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>6Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>7Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418681367</id>
+      <title>8Y / Pink</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180200721PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6571418648599</id>
+    <published>2021-08-05T11:33:50-07:00</published>
+    <updated>2021-08-05T11:33:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/happy-blara-jersey-longsleeve-shirt"/>
+    <title>HAPPY BLARA JERSEY LONGSLEEVE SHIRT</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRTS180202201-4.jpg?v=1628189298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRTS180202201</span></li>
+<li data-mce-fragment="1">Fabric: Jersey (100% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>9-12M / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>2Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>3Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>4Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>9-12M / Sky Blue</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>2Y / Sky Blue</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>3Y / Sky Blue</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>4Y / Sky Blue</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418648599</id>
+      <title>5Y / Sky Blue</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLRTS180202201BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6571418615831</id>
+    <published>2021-08-05T11:33:48-07:00</published>
+    <updated>2021-08-05T11:33:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/t-shirt"/>
+    <title>T-SHIRT</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLR72033-01.jpg?v=1628196823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLR72033</span></li>
+<li data-mce-fragment="1">Fabric: Jersey (100% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>6-9M / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>9-12M / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>2Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>3Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>4Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>5Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6571418615831</id>
+      <title>6Y / Yellow</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>BLR72033YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6565075877911</id>
+    <published>2021-07-14T16:16:11-07:00</published>
+    <updated>2021-07-14T16:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/kids-relaxed-sleepwear-set"/>
+    <title>KID&apos;S RELAXED SLEEPWEAR SET</title>
+    <s:type>ACCESSORIES</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRST210100726A-1_2-natural-set03.jpg?v=1626301240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>ACCESSORIES<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Tapping into a summer mood, this sleepwear set is cut from modal, which is a lightweight, thin, and stretchy fabric for hot weather. Comes with a short-sleeved top and a pair of shorts, neckline and hems are trimmed in contrasting color. Elastic waistband.</div>
+<div data-mce-fragment="1"> </div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRST210100726</span></li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Fabric: </span>Modal (85% modal, 15% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by <a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a>, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2-9Y</s:tag>
+    <s:tag>Sleepwear</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>2Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>3Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>4Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>5Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>6Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>7Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>8Y / Natural</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>2Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>3Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>4Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>5Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>6Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>7Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6565075877911</id>
+      <title>8Y / Sky Blue</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>BLRST210100726BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558336090135</id>
+    <published>2021-07-14T16:16:08-07:00</published>
+    <updated>2021-07-14T16:16:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/kids-short-raglan-set"/>
+    <title>KID&apos;S SHORT RAGLAN SET</title>
+    <s:type>ACCESSORIES</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRST210100802-1_2-set01.jpg?v=1626373809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>ACCESSORIES<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Crafted from organic cotton, this two-piece loungewear for kids is made of soft, lightweight, and stretchy jersey. A crew-neck raglan top with contrasting short sleeves, and trousers with elastic waistband.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRST210100802</span></li>
+<li data-mce-fragment="1">Fabric: Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sleepwear</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>2Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>3Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>4Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>5Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>6Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336090135</id>
+      <title>7Y / Cool Grey</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>BLRST210100802GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558335893527</id>
+    <published>2021-07-14T16:16:04-07:00</published>
+    <updated>2021-07-14T16:16:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/kids-knot-sleep-gown"/>
+    <title>KID&apos;S KNOT SLEEP GOWN</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRDR210100602-front02.jpg?v=1626303425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Cut from organic cotton, this sleep gown for kids has a knee-length flounce skirt, round neckline, and delicate straps finished with knots at the shoulders. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRDR210100602</span></li>
+<li data-mce-fragment="1">Fabric: Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sleepwear</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>2Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>3Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>4Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>5Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>6Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>7Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335893527</id>
+      <title>8Y / Sky Blue</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRDR210100602BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4496608755735</id>
+    <published>2021-06-28T10:25:13-07:00</published>
+    <updated>2021-06-28T10:25:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/linen-bow-dress"/>
+    <title>LINEN BOW DRESS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRRO210103224.jpg?v=1624902637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Linen Bow Dress has two bows on each side of the waist seam and some beautiful pleats at the center coming down from the neckline. This dress has a beautiful A-line silhouette and is worn as loose fit.</p>
+<ul>
+<li><span>Style# BLRDR200100133   </span></li>
+<li>Fabric: Linen Blend (50% organic linen, 50% organic cotton)</li>
+<li>Lining: Gauze (100% organic cotton)</li>
+<li>Designed in Canada</li>
+<li><span>Made in China</span></li>
+</ul>
+<div><span>Organic Cotton</span></div>
+<ul>
+<li>
+<div>
+<span>Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link">GOTS</a><span>, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div><span>Natural Dye</span></div>
+<ul>
+<li>
+<div><span>Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>8-9Y</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Dress</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>Linen Blend</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Natural White</s:tag>
+    <s:tag>Ocean Blue</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>summer wear</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>2Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>3Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>4Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>5Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>6Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>7Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>8Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>9Y / Ocean Blue</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>2Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>3Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>4Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>5Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>6Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>7Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>8Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4496608755735</id>
+      <title>9Y / Natural White</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>BLRDR200100133WH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558336188439</id>
+    <published>2021-06-17T11:36:33-07:00</published>
+    <updated>2021-06-17T11:36:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/v-neck-contrast-dress"/>
+    <title>V-NECK CONTRAST DRESS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRDR210102608-3.jpg?v=1624900826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Adding an inspired preppy vibe, this dress with polo collar lapel is crafted from organic cotton for the best touch. An ideal item for various occasions. Moreover, the delicate embroidered patch at the chest represents the determination of Blara to protect the environment. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRDR210102608</span></li>
+<li data-mce-fragment="1">Fabric: Spandex French Terry (95% organic cotton, 5% spandex)<br>
+</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Ballet Pink</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>Dresses</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Dress</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>Spandex French Terry</s:tag>
+    <s:tag>summer wear</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>2Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>3Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>4Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>5Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>6Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>7Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558336188439</id>
+      <title>8Y / Ballet Pink</title>
+      <s:price currency="CAD">89.00</s:price>
+      <s:sku>BLRDR210102608PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558335959063</id>
+    <published>2021-06-17T11:36:27-07:00</published>
+    <updated>2021-06-17T11:36:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/ruffle-pouch-shorts"/>
+    <title>RUFFLE POUCH SHORTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRSO210102308-2.jpg?v=1623955335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">The shorts  with an elasticated waistband at back, can possibly fit various body types. The tulip pockets on the side highlight the design. Crafted from organic cotton terry, the texture and touch is exceptionally comfy.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRSO210102308</span></li>
+<li data-mce-fragment="1">Fabric: Spandex French Terry (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Ballet Pink</s:tag>
+    <s:tag>Bottoms</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Bottom</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Shorts</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>Spandex French Terry</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:tag>warm grey</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>2Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>3Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>4Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>5Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>6Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>7Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>8Y / Ballet Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>2Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>3Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>4Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>5Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>6Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>7Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335959063</id>
+      <title>8Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRSO210102308GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558335402007</id>
+    <published>2021-06-17T11:36:07-07:00</published>
+    <updated>2021-06-17T11:36:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/gathered-vest-dress"/>
+    <title>GATHERED VEST DRESS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRDR210102533-front_d7bafdb8-f014-4a21-bf6e-4b55988b975d.jpg?v=1626458256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Crafted from orgainic knit fabric and woven linen, a classic comnbination for spring and summer. The linen as a skirt is connected at bust with gatherings.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRDR210102533（Ocean Blue）</span></li>
+<li data-mce-fragment="1">Style# BLRDR210102524   (Grey Check)</li>
+<li data-mce-fragment="1">Fabric: Pique (100% organic cotton)<br data-mce-fragment="1">Linen (50% organic linen, 50% organic cotton)</li>
+<li data-mce-fragment="1">Fabric:<span data-mce-fragment="1"> Pique (100% organic cotton)<br data-mce-fragment="1">Sueded Oxford (100% organic cotton)</span>
+</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>2Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>3Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>4Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>5Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>6Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>7Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>8Y / Ocean Blue</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102533BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>2Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>3Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>4Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>5Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>6Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>7Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335402007</id>
+      <title>8Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102524GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6558335205399</id>
+    <published>2021-06-17T11:36:01-07:00</published>
+    <updated>2021-06-17T11:36:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/pleated-shirtdress"/>
+    <title>PLEATED SHIRTDRESS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRDR210102433-front02.jpg?v=1626457972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">Revealed with a retro princess, this shirtdress comes with a delicate peter pan collar and side pleats at the back hem. The turned-up detail at cuff carries a refreshing vibe for an overall style. Front button closure. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRDR210102433（Natural White）</span></li>
+<li data-mce-fragment="1">Style# BLRDR210102424  (Grey Check)</li>
+<li data-mce-fragment="1">Fabric: Linen (50% organic linen, 50% organic cotton)</li>
+<li data-mce-fragment="1">Fabric:<span data-mce-fragment="1"> Sueded Oxford (100% organic cotton)</span>
+</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>2Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>3Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>4Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>5Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>6Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>7Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>8Y / Natural White</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102433WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>2Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>3Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>4Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>5Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>6Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>7Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6558335205399</id>
+      <title>8Y / Grey Check</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>BLRDR210102424GY/C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6544164945943</id>
+    <published>2021-05-21T17:10:20-07:00</published>
+    <updated>2021-05-21T17:10:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/kids-sleep-gown-set"/>
+    <title>KID&apos;S SLEEP GOWN SET</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRST210100502.jpg?v=1622069323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The kid's sleep gown set comes with a sleeveless dress and a kimono style of overshirt. The silhouette is completed by a flounce hem and ruffles trim along shoulder straps and chest. The overshirt has a wide cut with a very loose fit, which creates a lovely draping style for a sense of coziness chilling out at home.<br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRST210100502</span></li>
+<li data-mce-fragment="1">Fabric: Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/" data-mce-fragment="1">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Pajama</s:tag>
+    <s:tag>Kids Sleepwear</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>sky blue</s:tag>
+    <s:tag>Sleep Gown</s:tag>
+    <s:tag>Sleepwear</s:tag>
+    <s:tag>Spandex Jersey</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>2Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>3Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>4Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>5Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>6Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>7Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164945943</id>
+      <title>8Y / Sky Blue</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>BLRST210100502-2BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6544164978711</id>
+    <published>2021-03-29T10:54:34-07:00</published>
+    <updated>2021-03-29T10:54:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/tied-up-tank-top"/>
+    <title>TIED-UP TANK TOP</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BlaraO_150.jpg?v=1622145612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<h1></h1>
+<h1 style="text-align: center;"></h1>
+<div style="text-align: center;">
+<ul data-mce-fragment="1"></ul>
+</div>
+<p data-mce-fragment="1">Contrasting with two tones with an oversize self-tie, the V-neck top carries with elegance and niftiness at the same time.  The cropped hem completes the style. It's an item that would draw all the attention.<br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRTT210102233</span></li>
+<li data-mce-fragment="1">Fabric: Linen (50% organic linen, 50% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>linen</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Ocean Blue/Off White</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>summer wear</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops For Kids</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>2Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>3Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>4Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>5Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>6Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>7Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164978711</id>
+      <title>8Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>BLRTT210102233BL/WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6544164880407</id>
+    <published>2021-03-29T10:54:29-07:00</published>
+    <updated>2021-03-29T10:54:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/bath-towel-robe"/>
+    <title>BATH TOWEL ROBE</title>
+    <s:type>ACCESSORIES</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/19I6581_0458ebf3-f400-4743-8f5e-55cd99844503.jpg?v=1622058412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>ACCESSORIES<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<h1></h1>
+<h1 style="text-align: center;"></h1>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1">This hooded robe for kids is crafted from organic untwisted yarn. All the edges are finely hemmed with tape in matched color. Front button closure.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRGW210100239</span></li>
+<li data-mce-fragment="1">Fabric: Untwisted Yarn Terry (100% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bathrobe</s:tag>
+    <s:tag>Boy</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Bath Robe</s:tag>
+    <s:tag>Kids Boy</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Sleepwear</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>off white</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sleepwear</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:tag>Untwisted Yarn Terry</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>S / Off White</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>M / Off White</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>L / Off White</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>XL / Off White</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>S / Grey</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>M / Grey</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>L / Grey</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164880407</id>
+      <title>XL / Grey</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>BLRGW210100239GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6544164847639</id>
+    <published>2021-03-29T10:54:25-07:00</published>
+    <updated>2021-03-29T10:54:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/linen-hooded-overshirt"/>
+    <title>LINEN HOODED OVERSHIRT</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BlaraO_159.jpg?v=1622752165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<h1></h1>
+<h1 style="text-align: center;"></h1>
+<ul data-mce-fragment="1"></ul>
+<p data-mce-fragment="1">A hooded overshirt crafted from organic linen and cotton blend, is breathable and lightweight. It can be worn to cover up the skin from tanning or as an overshirt on a cool day. The flounce hem adds a sense of elegance. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLROW210101833</span></li>
+<li data-mce-fragment="1">Fabric: Linen (50% organic linen, 50% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>jacket</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Jacket</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>linen</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Natural White</s:tag>
+    <s:tag>Ocean Blue</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:tag>Tops For Kids</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>2Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>3Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>4Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>5Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>6Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>7Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>8Y / Natural White</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833WHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>2Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>3Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>4Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>5Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>6Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>7Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6544164847639</id>
+      <title>8Y / Ocean Blue</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku>BLROW210101833BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/6542152794135</id>
+    <published>2021-03-19T11:16:20-07:00</published>
+    <updated>2021-03-19T11:16:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/ruffle-trim-sleeveless-blouse"/>
+    <title>RUFFLE TRIM SLEEVELESS BLOUSE</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRBL210101933.jpg?v=1622145546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h1></h1>
+<h1 style="text-align: center;"></h1>
+<p data-mce-fragment="1">Combined with two tones, the bodice of the blouse is crafted from organic linen and cotton blend. The ruff collar features a uniformly gathering folds, as well as the ruff trim at armholes. Back button closure.<br></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRBL210101933</span></li>
+<li data-mce-fragment="1">Fabric: Linen (50% organic linen, 50% organic cotton)</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Designed in Canada</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Full-Lined<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">This garment is fully lined on the inside with our signature soft touch fabric. Our fully lined products are made in high quality materials and fine craftsmanship in order to bring the family love and comfort.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>linen</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Ocean Blue/Off White</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops For Kids</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>2Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>3Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>4Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>5Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>6Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>7Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/6542152794135</id>
+      <title>8Y / Ocean Blue/Off White</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>BLRBL210101933BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807596567</id>
+    <published>2021-01-29T10:24:05-08:00</published>
+    <updated>2021-01-29T10:24:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/girls-thin-base-layer-pants"/>
+    <title>GIRL&apos;S THIN BASE LAYER PANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200208202_allcolour_1Y-12Y_2.jpg?v=1611947496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Basic loungewear for winter, these pants for girls are crafted from padded jersey that provides coziness and warmth.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200208202</span></li>
+<li data-mce-fragment="1">Double Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-href="https://www.global-standard.org/" data-mce-fragment="1">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>1Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>2Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>3Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>4Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>5Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>6Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>7Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>8Y / Cool Grey</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>1Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>2Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>3Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>4Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>5Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>6Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>7Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807596567</id>
+      <title>8Y / Pink Stripes</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>BLRPT200208202PK/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807563799</id>
+    <published>2021-01-29T10:24:02-08:00</published>
+    <updated>2021-01-29T10:24:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/girls-padded-base-layer-pants"/>
+    <title>GIRL&apos;S PADDED BASE LAYER PANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200207804.jpg?v=1626458378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Basic loungewear for winter, these pants for girls are crafted from padded jersey that provides coziness and warmth.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200207804</span></li>
+<li data-mce-fragment="1">Padded Jersey (100% organic cotton, Filling:100% polyester)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>1Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>2Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>3Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>4Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>5Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>6Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>7Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>8Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>1Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>2Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>3Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>4Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>5Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>6Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>7Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807563799</id>
+      <title>8Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200207804PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807432727</id>
+    <published>2021-01-29T10:23:55-08:00</published>
+    <updated>2021-01-29T10:23:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/girls-thick-base-layer-pants"/>
+    <title>GIRL&apos;S THICK BASE LAYER PANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200208303.jpg?v=1626458482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Basic loungewear for winter, these pants for girls are crafted from double jersey that provides coziness and warmth.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200208303</span></li>
+<li data-mce-fragment="1">Double Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>1Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>2Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>3Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>4Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>5Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>6Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>7Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807432727</id>
+      <title>8Y / Natural</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>BLRPT200208303NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807367191</id>
+    <published>2021-01-29T10:23:54-08:00</published>
+    <updated>2021-01-29T10:23:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/plush-cuff-sweatpants"/>
+    <title>PLUSH CUFF SWEATPANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200205504.jpg?v=1626458583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Crafted from organic cotton jersey, these padded pants for winter features the buttoned plush cuff at the hem that is optional to turn up. All the seams are nicely flat-locked. Decorative pocket seams on both sides. Elastic waistband.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200205504</span></li>
+<li data-mce-fragment="1">Padded Jersey (100% organic cotton, Filling:100% polyester)</li>
+<li data-mce-fragment="1">Plush (50% Bamboo Fibre, 50% Organic Cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>9-12M / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>2Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>3Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>4Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>5Y / Warm Grey</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>9-12M / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>2Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>3Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>4Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807367191</id>
+      <title>5Y / Candy Pink</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>BLRPT200205504PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807334423</id>
+    <published>2021-01-29T10:23:52-08:00</published>
+    <updated>2021-01-29T10:23:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/puffy-ruffle-trim-pants"/>
+    <title>PUFFY RUFFLE TRIM PANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200205003.jpg?v=1626725764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Made of soft, organic cotton jersey, assures a sense of warmth and comfort. These pants silhouette is enhanced by low crotch design and a slanting cut with soft gathering on the seam. A knot is placed at the elastic waistband.  Cuffed hem.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200205003</span></li>
+<li data-mce-fragment="1">Double Spandex Jersey (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>6-9M / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>9-12M / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>2Y / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>3Y / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>4Y / Natural</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>3-6M / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>6-9M / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>9-12M / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>2Y / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>3Y / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807334423</id>
+      <title>4Y / Ballet Pink</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>BLRPT200205003PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859807203351</id>
+    <published>2021-01-29T10:23:47-08:00</published>
+    <updated>2021-01-29T10:23:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/fluffy-bear-pocket-joggers"/>
+    <title>FLUFFY BEAR POCKET JOGGERS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200207612.jpg?v=1626726083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">These pants silhouette are completed by the fluffy bear pouch that is made of cotton plush, and the low crotch shape gives a trendy manner. A flap pocket is also placed at the back. Cuffed hem. Elastic waistband.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200207612</span></li>
+<li data-mce-fragment="1">Sweatshirt Fleece (100% Organic Cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-fragment="1" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807203351</id>
+      <title>1Y / Melon Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200207612PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807203351</id>
+      <title>2Y / Melon Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200207612PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807203351</id>
+      <title>3Y / Melon Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200207612PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807203351</id>
+      <title>4Y / Melon Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200207612PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859807203351</id>
+      <title>5Y / Melon Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200207612PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859806973975</id>
+    <published>2021-01-29T10:23:40-08:00</published>
+    <updated>2021-01-29T10:23:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/classic-b-jeans"/>
+    <title>CLASSIC B JEANS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200204435.jpg?v=1626726156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">The denim jeans for girls, a new shape and fabric for 2020, can be worn as a layering piece on an  everyday look. The style is completed by an elastic waistband and a "B" embroidery on the patch pocket at the back.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200204435</span></li>
+<li data-mce-fragment="1">Knit Denim (95% organic cotton, 5% spandex)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>2Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>3Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>4Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>5Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>6Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>7Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>8Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806973975</id>
+      <title>9Y / Night Blue</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>BLRPT200204435BLUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859806941207</id>
+    <published>2021-01-29T10:23:39-08:00</published>
+    <updated>2021-01-29T10:23:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/oblique-gathering-pants"/>
+    <title>OBLIQUE GATHERING PANTS</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/BLRPT200203312.jpg?v=1626726285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Made of soft, organic cotton fleece, assures a sense of warmth and comfort. These pants silhouette is enhanced by low crotch design and a slanting cut with soft gathering on the seam. A self-tie is placed at the elastic waistband.  Cuffed hem.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200203312</span></li>
+<li data-mce-fragment="1">Sweatshirt Fleece (100% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" class="text-link" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" href="https://www.global-standard.org/" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottoms</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806941207</id>
+      <title>2Y / Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200203312PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806941207</id>
+      <title>3Y / Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200203312PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806941207</id>
+      <title>4Y / Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200203312PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806941207</id>
+      <title>5Y / Pink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>BLRPT200203312PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blaraorganichouse.ca/products/4859806908439</id>
+    <published>2021-01-29T10:23:38-08:00</published>
+    <updated>2021-01-29T10:23:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://blaraorganichouse.ca/products/gathered-culottes-natural"/>
+    <title>GATHERED CULOTTES NATURAL</title>
+    <s:type>GIRLS</s:type>
+    <s:vendor>BLARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2496/0992/products/9ae9a560a9e3371478e67f927b81bc89_8e139a4a-4e09-4556-b845-33799102f7c1.jpg?v=1612572018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLARA<br>
+        <strong>Type: </strong>GIRLS<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div data-mce-fragment="1">Crafted from organic cotton canvas and denim, these wide-leg culottes for girls have a dashing influenced feel with turn-up and raw edge details. Elasticated waist with uniformly gathered folds creates a loose fit to the leg openings, giving more movement and a sense of coziness.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Style# BLRPT200204228</span></li>
+<li data-mce-fragment="1">Canvas (100% organic cotton)</li>
+<li data-mce-fragment="1">Designed in Canada</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in China</span></li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Organic Cotton</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Our products are made with you, your family and our planet in mind! The cotton used in our collections is certified organic by </span><a data-mce-fragment="1" href="https://www.global-standard.org/" title="Global Organic Textile Standard - Blara Organic House | Sustainable Fashion for Kids, Men &amp; Women" class="text-link" data-mce-href="https://www.global-standard.org/">GOTS</a><span data-mce-fragment="1">, which guarantees that our fabrics must be produced without the use of pesticides, synthetic fertilizers, and genetically engineered seeds.</span>
+</div>
+</li>
+</ul>
+<div data-mce-fragment="1"><span data-mce-fragment="1">Natural Dye</span></div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<div data-mce-fragment="1"><span data-mce-fragment="1">Using plants, fruits, and traditional Chinese medicinal products we are able to dye our fabrics without adding any harmful chemicals. This innovative technology is good for you, your loved ones and our planet!</span></div>
+</li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sustainable Fillings<br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">This garment contains a new type of sustainable filling made of corn fiber. The specialty of this filling material is that it keeps the equal amount of warmth as down feathers.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1-2Y</s:tag>
+    <s:tag>2-3Y</s:tag>
+    <s:tag>3-4Y</s:tag>
+    <s:tag>4-5Y</s:tag>
+    <s:tag>5-6Y</s:tag>
+    <s:tag>6-7Y</s:tag>
+    <s:tag>7-8Y</s:tag>
+    <s:tag>Bottoms</s:tag>
+    <s:tag>Canada kids</s:tag>
+    <s:tag>Canvas</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>Kids Bottom</s:tag>
+    <s:tag>Kids Clothing</s:tag>
+    <s:tag>Kids Girl</s:tag>
+    <s:tag>Kids Pants</s:tag>
+    <s:tag>Kids Wear</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>Natural Dye</s:tag>
+    <s:tag>Organic Clothing</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Plant Dye</s:tag>
+    <s:tag>Sustainable Clothing</s:tag>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>2Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>3Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>4Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>5Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>6Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>7Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blaraorganichouse.ca/products/4859806908439</id>
+      <title>8Y / Natural</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>BLRPT200204228NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
